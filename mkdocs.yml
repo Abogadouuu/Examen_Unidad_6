@@ -6,4 +6,23 @@ nav:
   - index: index.md
   - Guía de Instalación Windows 11: Guia_de_Instalacion_Windows_11.md
   - Especificaciones Técnicas iPhone 16: Especificaciones_Tecnicas_iPhone_16.md
-theme: readthedocs
+  - Descarga en pdf: pdf/document.pdf
+
+theme: 
+ name: readthedocs
+
+plugins:
+  - search
+  - pdf-export:
+      enabled_if_env: ENABLE_PDF_EXPORT
+      media_type: print
+  - with-pdf:
+      author: Antonio Moreno Campos
+      copyright: CCO 1.0 Universal
+      cover: true
+      back_cover: false
+      cover_title: Examen Unidad 6
+      cover_subtitle: Examen Unidad 6 2DAM
+      toc_title: Índice
+      toc_level: 2
+      ordered_chapter_level: 2

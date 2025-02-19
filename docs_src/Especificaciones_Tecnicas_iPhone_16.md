@@ -260,10 +260,8 @@ página [*apple.com/es/iphone/cellular*](https://www.apple.com/es/iphone/cellul
 
 Botones y conectores externos
 
-![](https://raw.githubusercontent.com/Abogadouuu/Examen_Unidad_6/refs/heads/main/docs_src/botones.png){width="3.95833in"
-height="6.95833in"}
-![](https://raw.githubusercontent.com/Abogadouuu/Examen_Unidad_6/refs/heads/main/docs_src/botones2.png){width="3.95833in"
-height="6.4375in"}
+![botones](https://raw.githubusercontent.com/Abogadouuu/Examen_Unidad_6/refs/heads/main/docs_src/botones.png)
+![botones traseros](https://raw.githubusercontent.com/Abogadouuu/Examen_Unidad_6/refs/heads/main/docs_src/botones2.png)
 
 1.  Cámara delantera
 2.   Botón lateral
