@@ -1,0 +1,9 @@
+site_name: "Examen Unidad 6"
+site_url: https://github.com/Abogadouuu/Examen_Unidad_6
+docs_dir: 'docs_src'
+site_dir: 'docs'
+nav:
+  - index: index.md
+  - Guía de Instalación Windows 11: Guia_de_Instalacion_Windows_11.md
+  - Especificaciones Técnicas iPhone 16: Especificaciones_Tecnicas_iPhone_16.md
+theme: readthedocs
