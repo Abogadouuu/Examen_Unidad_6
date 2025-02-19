@@ -263,15 +263,15 @@ Botones y conectores externos
 ![botones](https://raw.githubusercontent.com/Abogadouuu/Examen_Unidad_6/refs/heads/main/docs_src/botones.png)
 ![botones traseros](https://raw.githubusercontent.com/Abogadouuu/Examen_Unidad_6/refs/heads/main/docs_src/botones2.png)
 
-1.  Cámara delantera
-2.   Botón lateral
-3.   Control de la cámara
-4.   Conector USB-C
-5.   Bandeja de la tarjeta SIM (disponible en modelos comprados fuera de Estados Unidos)
-6.   Botones de volumen
-7.   Botón Acción
-8.   Cámaras traseras
-9.  Flash
+1. Cámara delantera
+2. Botón lateral
+3. Control de la cámara
+4. Conector USB-C
+5. Bandeja de la tarjeta SIM (disponible en modelos comprados fuera de Estados Unidos)
+6. Botones de volumen
+7. Botón Acción
+8. Cámaras traseras
+9. Flash
 
 ### Prestaciones del botón Acción
 
@@ -283,14 +283,14 @@ Botones y conectores externos
 
 -   Exposición, Profundidad, Zoom, Cámaras, Estilos y Tono
 
-### Carga y ampliación
+## Carga y ampliación
 
 -   Conector USB‑C compatible con:
 -   Carga
 -   DisplayPort
 -   USB 2 (hasta 480 Mb/s)
 
-### Batería y alimentación^12^
+## Batería y alimentación^12^
 
 -   Reproducción de vídeo: Hasta 22 horas
 -   Streaming de vídeo: Hasta 18 horas
@@ -314,7 +314,7 @@ Botones y conectores externos
 -   Identificación de accesorios con NFC
 -   Magnetómetro
 
-Sensores
+## Sensores
 
 -   Face ID
 -   Barómetro
@@ -323,9 +323,9 @@ Sensores
 -   Sensor de proximidad
 -   Doble sensor de luz ambiental
 
-Sistema operativo
+## Sistema operativo
 
-iOS
+### iOS
 
 iOS es el sistema operativo móvil más personal y seguro del mundo. Está
 repleto de funciones avanzadas y se ha diseñado para proteger
@@ -333,19 +333,17 @@ tu privacidad.
 
 [*Descubrir las novedades de iOS*](https://apple.com/es/ios/ios-18/)
 
-[*Manual de uso del
-iPhone*](https://support.apple.com/es-es/guide/iphone/welcome/ios)
+[*Manual de uso del iPhone* ](https://support.apple.com/es-es/guide/iphone/welcome/ios)
 
-Accesibilidad
+## Accesibilidad
 
 Las prestaciones integradas para distintas necesidades visuales,
 motrices, auditivas, cognitivas y del habla te ayudan a sacar todo
 el partido a tu iPhone de la forma que mejor se adapte a ti.
 
-[*Obtén más información sobre
-Accesibilidad*](https://apple.com/es/accessibility/)
+[*Obtén más información sobre Accesibilidad*](https://apple.com/es/accessibility/)
 
-Prestaciones incluidas:
+### Prestaciones incluidas:
 
 -   VoiceOver
 -   Zoom
@@ -363,7 +361,7 @@ Prestaciones incluidas:
 -   Atajos de Voz
 -   Contenido Leído
 
-Apps integradas
+## Apps integradas
 
 -   Apple Store
 -   App Store
@@ -412,25 +410,22 @@ Apps integradas
 -   Watch
 -   Tiempo
 
-Puedes ver la lista completa de apps de Apple disponibles en el iPhone
-en [*apple.com/es/apps*](https://apple.com/es/apps/).
+Puedes ver la lista completa de apps de Apple disponibles en el iPhone en [*apple.com/es/apps*](https://apple.com/es/apps/).
 
-Tarjeta SIM
+## Tarjeta SIM
 
 -   Doble SIM (Nano SIM y eSIM)^14^
 -   Compatible con doble eSIM^14^
 
-[*Más información sobre
-la eSIM*](https://support.apple.com/es-es/HT212780)
+[*Más información sobre la eSIM*](https://support.apple.com/es-es/HT212780)
 
-[*Más información sobre la eSIM en viajes
-al extranjero*](https://support.apple.com/es-es/HT213448)
+[*Más información sobre la eSIM en viajes al extranjero*](https://support.apple.com/es-es/HT213448)
 
-Clasificación de compati­bilidad con audífonos
+## Clasificación de compati­bilidad con audífonos
 
-Compatible con la prestación Audífono
+### Compatible con la prestación Audífono
 
-Compati­bilidad con adjuntos de Mail
+### Compati­bilidad con adjuntos de Mail
 
 Tipos de documento visibles
 
@@ -441,7 +436,7 @@ Tipos de documento visibles
     enriquecido); .vcf (información de contacto); .xls y .xlsx
     (Microsoft Excel); .zip; .ics y .usdz (USDZ Universal)
 
-Requisitos del sistema
+## Requisitos del sistema
 
 -   Cuenta de Apple (para algunas prestaciones)
 -   Acceso a internet^15^
@@ -453,16 +448,16 @@ Requisitos del sistema
     (descarga gratuita
     desde [*apple.com/es/itunes/download*](https://apple.com/es/itunes/download/))
 
-Requisitos ambientales
+## Requisitos ambientales
 
 -   Temperatura de funciona­miento: de 0 a 35 °C
 -   Temperatura de almacena­miento: de -20 a 45 °C
 -   Humedad relativa: del 5 al 95 % sin condensación
 -   Altitud máxima de funciona­miento: probado hasta 3.000 m
 
-Idiomas
+## Idiomas
 
-Idiomas compatibles
+### Idiomas compatibles
 
 Alemán, árabe, búlgaro, catalán, checo, chino (simplificado, tradicional
 y de Hong Kong), coreano, croata, danés, eslovaco, español (de España
@@ -472,7 +467,7 @@ Unido), italiano, japonés, kazajo, malayo, neerlandés, noruego, polaco,
 portugués (de Brasil y Portugal), rumano, ruso, sueco, tailandés, turco,
 ucraniano y vietnamita
 
-Idiomas compatibles con el teclado QuickType
+### Idiomas compatibles con el teclado QuickType
 
 Ainu, akan, albanés, alemán (de Alemania, Austria y Suiza), amárico,
 apache (occidental), árabe, árabe (najdí), armenio, asamés, asirio,
@@ -511,7 +506,7 @@ tongano, turco, turcomano, ucraniano, uigur, urdú (alfabético, QWERTY y
 transliteración), uzbeko (árabe, cirílico y latino), vietnamita (télex,
 VIQR y VNI), wancho, wolastoqey, yi de Liangshan, yidis y yoruba
 
-Idiomas compatibles con el teclado QuickType y el autocorrector
+### Idiomas compatibles con el teclado QuickType y el autocorrector
 
 Alemán (de Alemania, Austria y Suiza), árabe, árabe (najdí), bengalí
 (alfabético, InScript y transliteración), búlgaro, catalán, checo,
@@ -533,7 +528,7 @@ rumano, ruso, serbio (cirílico y latino), sueco, tailandés, tamil
 ucraniano, urdu (alfabético, QWERTY y transliteración) y vietnamita
 (télex)
 
-Idiomas compatibles con el teclado QuickType y la escritura predictiva
+### Idiomas compatibles con el teclado QuickType y la escritura predictiva
 
 Alemán (de Alemania, Austria y Suiza), árabe, árabe (najdí), bengalí,
 cantonés (tradicional), checo, chino (simplificado y tradicional),
@@ -545,7 +540,7 @@ lituano, maratí, neerlandés (de Bélgica y Países Bajos), noruego
 (bokmål, nynorsk), polaco, portugués (de Brasil y Portugal), punyabí,
 rumano, ruso, sueco, tailandés, tamil, telugu, turco y vietnamita.
 
-Idiomas compatibles con el teclado QuickType y la escritura multilingüe
+### Idiomas compatibles con el teclado QuickType y la escritura multilingüe
 
 Alemán (de Alemania, Austria y Suiza), chino simplificado (pinyin),
 chino tradicional (pinyin), español (de España, Latinoamérica y México),
@@ -555,8 +550,7 @@ Reino Unido, Singapur y Sudáfrica), italiano, japonés (romaji),
 neerlandés (de Bélgica y Países Bajos), polaco, portugués (de Brasil
 y Portugal), rumano, turco y vietnamita
 
-Idiomas compatibles con el teclado QuickType y las sugerencias
-contextuales
+### Idiomas compatibles con el teclado QuickType y las sugerencias contextuales
 
 Alemán (de Alemania, Austria y Suiza), árabe, árabe (najdí), chino
 (simplificado), español (de España, Latinoamérica y México), francés
@@ -566,7 +560,7 @@ Zelanda, Reino Unido, Singapur y Sudáfrica), italiano, neerlandés
 (de Bélgica y Países Bajos), portugués (de Brasil), ruso, sueco, turco
 y vietnamita
 
-Idiomas compatibles con el teclado QuickType y QuickPath
+### Idiomas compatibles con el teclado QuickType y QuickPath
 
 Alemán (de Alemania, Austria y Suiza), árabe, chino simplificado (pinyin
 QWERTY), chino tradicional (pinyin QWERTY), coreano, español (de España,
@@ -576,7 +570,7 @@ Reino Unido, Singapur y Sudáfrica), italiano, hebreo, neerlandés
 (de Bélgica y Países Bajos), polaco, portugués (de Brasil y Portugal),
 rumano, sueco y vietnamita
 
-Idiomas de Siri
+### Idiomas de Siri
 
 Alemán (de Alemania, Austria y Suiza), árabe (de Arabia Saudí y Emiratos
 Árabes Unidos), coreano (de Corea del Sur), cantonés (de China
@@ -590,7 +584,7 @@ y Sudáfrica), italiano (de Italia y Suiza), japonés (de Japón), malayo
 (de Noruega), portugués (de Brasil), ruso (de Rusia), sueco (de Suecia),
 tailandés (de Tailandia) y turco (de Turquía)
 
-Idiomas de Dictado
+### Idiomas de Dictado
 
 Alemán (de Alemania, Austria y Suiza), árabe (de Arabia Saudí, Catar,
 Emiratos Árabes Unidos, Kuwait), cantonés (de China continental y Hong
@@ -605,7 +599,7 @@ malayo, neerlandés (de Bélgica y Países Bajos), noruego (bokmål),
 polaco, portugués (de Brasil y Portugal), rumano, ruso, shanghainés
 (de China continental), sueco, tailandés, turco, ucraniano y vietnamita
 
-Idiomas con diccionario monolingüe
+### Idiomas con diccionario monolingüe
 
 Alemán, búlgaro, catalán, chino (simplificado, tradicional y tradicional
 de Hong Kong), coreano, danés, español, francés, griego, hebreo, hindi,
@@ -613,11 +607,11 @@ inglés (de Estados Unidos y Reino Unido), italiano, japonés, malayo,
 neerlandés, noruego, polaco, portugués, punyabí, rumano, ruso, sueco,
 tailandés y turco
 
-Idiomas con diccionario de frases hechas
+### Idiomas con diccionario de frases hechas
 
 De chino simplificado y tradicional a inglés y de cantonés a inglés
 
-Idiomas con diccionario bilingüe
+### Idiomas con diccionario bilingüe
 
 De alemán a inglés, de árabe a inglés, de bengalí a inglés, de canarés a
 inglés, de cantonés (tradicional) a inglés, de checo a inglés, de chino
@@ -633,11 +627,11 @@ inglés, de tailandés a inglés, de tamil a inglés, de telugu a inglés, de
 turco a inglés, de ucraniano a inglés, de urdu a inglés, de vietnamita a
 inglés
 
-Idiomas con diccionario de sinónimos
+### Idiomas con diccionario de sinónimos
 
 Chino simplificado e inglés (de Estados Unidos y Reino Unido)
 
-Revisión ortográfica
+### Revisión ortográfica
 
 Alemán (de Alemania, Austria y Suiza), árabe, árabe (najdí), búlgaro,
 checo, danés, español (de España, Latinoamérica y México), finés,
@@ -648,7 +642,7 @@ italiano, neerlandés (de Bélgica y Países Bajos), noruego (bokmål y
 nynorsk), polaco, portugués (de Brasil y Portugal), punyabí, rumano,
 ruso, sueco, telugu, turco y vietnamita
 
-Zonas geográficas compatibles con Apple Pay
+### Zonas geográficas compatibles con Apple Pay
 
 Alemania, Arabia Saudí, Argentina, Armenia, Australia, Austria,
 Azerbaiyán, Baréin, Bielorrusia, Bélgica, Brasil, Bulgaria, Canadá,
@@ -664,31 +658,29 @@ Zelanda, Panamá, Países Bajos, Palestina, Perú, Polonia, Portugal, Reino
 Unido, República Checa, Rumanía, San Marino, Serbia, Singapur,
 Sudáfrica, Suecia, Suiza, Taiwán, Ucrania y Vietnam
 
-Contenido de la caja
+## Contenido de la caja
 
 -   iPhone 16
 -   Cable de carga USB‑C (1 m)
 -   Documentación
 
-En nuestro esfuerzo por ser [*neutros en carbono para
-2030*](https://www.apple.com/es/environment), el iPhone 16
+En nuestro esfuerzo por ser [*neutros en carbono para 2030*](https://www.apple.com/es/environment), el iPhone 16
 y iPhone 16 Plus no incluyen adaptador de corriente ni EarPods. La caja
 contiene un cable USB‑C de carga rápida que es compatible con
-adaptadores USB‑C y puertos de ordenador.
+adaptadores USB‑C y puertos de ordenador.  
 
 Puedes usar cualquier adaptador de corriente USB‑C compatible que
 tengas. También tienes la opción de comprar un adaptador de corriente
-o unos auriculares de Apple nuevos si los necesitas.
+o unos auriculares de Apple nuevos si los necesitas.  
 
-El iPhone y el medio ambiente
+## El iPhone y el medio ambiente  
 
 El iPhone 16 y el iPhone 16 Plus se han diseñado para reducir su impacto
 medioambiental:^17^
 
-[*Consultar el informe medioambiental del iPhone 16
-y el iPhone 16 Plus*](https://www.apple.com/environment/pdf/products/iphone/iPhone_16_and_iPhone_16_Plus_PER_Sept2024.pdf)
+[*Consultar el informe medioambiental del iPhone 16 y el iPhone 16 Plus*](https://www.apple.com/environment/pdf/products/iphone/iPhone_16_and_iPhone_16_Plus_PER_Sept2024.pdf)
 
-Progreso hacia Apple 2030
+### Progreso hacia Apple 2030
 
 -   Más de un 30 % de contenido reciclado^18^
 -   Un 30 % menos de emisiones en comparación con los registros tomados
@@ -696,7 +688,7 @@ Progreso hacia Apple 2030
 
 [*Ver el compromiso de Apple*](https://www.apple.com/es/environment/)
 
-Materiales
+### Materiales
 
 -   Aluminio 100 % reciclado en subestructura térmica del nuevo diseño
     interno
@@ -720,20 +712,20 @@ Materiales
 -   Embalaje compuesto por un 100 % de fibra^21^
 -   64 % de fibra reciclada en el embalaje
 
-Energía
+### Energía
 
 -   Más del 30 % de la electricidad empleada en la fabricación del
     iPhone 16 y el iPhone 16 Plus es de origen renovable^22^
 -   Supera las normas del Departamento de Energía estadounidense sobre
     sistemas de carga de baterías^23^
 
-Residuos
+### Residuos
 
 -   Como parte del programa de cero residuos de Apple, las fábricas de
     montaje final de nuestros proveedores recurrentes no generan
     residuos que acaben en vertederos
 
-Química inteligente^24^
+### Química inteligente^24^
 
 -   Vidrio sin arsénico
 -   Sin mercurio, BFR ni PVC
